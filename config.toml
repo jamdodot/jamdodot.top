@@ -964,10 +964,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         GitHub = "https://github.com/jamdodot"
         Weibo = "xxxx"
  #       Steam = "xxxx"
-        Zhihu = "https://www.zhihu.com/people/5152546"
-        Douban = "https://www.douban.com/people/sunSHIne_whouse/?_i=7335508ne5iDss"
+        Zhihu = "5152546"
+        Douban = "sunSHIne_whouse/?_i=7335508ne5iDss"
 #        Devto = "xxxx"
-        Bilibili = "https://space.bilibili.com/260994633?broadcast_type=0"
+        Bilibili = "260994633?broadcast_type=0"
         Email = "jamdodot@gmail.com"
         Phone = "555-555-555"
         RSS = true
