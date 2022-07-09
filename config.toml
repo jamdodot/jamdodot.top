@@ -286,7 +286,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Social config in home page
   # 主页的社交信息设置
   [params.social]
-    GitHub = "https://github.com/jamdodot"
+    GitHub = ""
     Linkedin = ""
     Twitter = ""
     Instagram = ""
@@ -961,7 +961,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           social = true
           disclaimer = ""
       [languages.zh-cn.params.social]
-        GitHub = "https://github.com/jamdodot"
+        GitHub = "jamdodot"
         Weibo = "xxxx"
  #       Steam = "xxxx"
         Zhihu = "5152546"
@@ -969,5 +969,5 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 #        Devto = "xxxx"
         Bilibili = "260994633?broadcast_type=0"
         Email = "jamdodot@gmail.com"
-        Phone = "555-555-555"
+        Phone = ""
         RSS = true
