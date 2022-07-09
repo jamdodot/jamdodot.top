@@ -978,9 +978,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
           disclaimer = ""
       [languages.zh-cn.params.social]
         GitHub = "jamdodot"
-        Weibo = "xxxx"
+        Weibo = ""
  #       Steam = "xxxx"
-        Zhihu = "5152546"
+        Zhihu = ""
         Douban = "sunSHIne_whouse/?_i=7335508ne5iDss"
 #        Devto = "xxxx"
         Bilibili = "260994633?broadcast_type=0"
