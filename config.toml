@@ -971,3 +971,5 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         Email = "jamdodot@gmail.com"
         Phone = ""
         RSS = true
+
+googleAnalytics = "UA-171454974-2"
