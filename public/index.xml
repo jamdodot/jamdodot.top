@@ -4,9 +4,26 @@
         <link>/</link>
         <description>Hugo theme - LoveIt</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>jamdodot@gmail.com (jamdodotZWQ)</managingEditor>
-            <webMaster>jamdodot@gmail.com (jamdodotZWQ)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 09 Jul 2022 20:05:58 &#43;0800</lastBuildDate>
+            <webMaster>jamdodot@gmail.com (jamdodotZWQ)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 10 Jul 2022 15:21:38 &#43;0800</lastBuildDate>
             <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>人体系统调优不完全指南</title>
+    <link>/20220710-%E4%BA%BA%E4%BD%93%E7%B3%BB%E7%BB%9F%E8%B0%83%E4%BC%98/</link>
+    <pubDate>Sun, 10 Jul 2022 15:21:38 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>/20220710-%E4%BA%BA%E4%BD%93%E7%B3%BB%E7%BB%9F%E8%B0%83%E4%BC%98/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/featured-image.png" referrerpolicy="no-referrer">
+            </div><div class="details admonition note open">
+        <div class="details-summary admonition-title">
+            <i class="icon fas fa-pencil-alt fa-fw" aria-hidden="true"></i>注意<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
+        </div>
+        <div class="details-content">
+            <div class="admonition-content">这篇文章来自于<a href="https://github.com/zijie0/HumanSystemOptimization" target="_blank" rel="noopener noreffer ">github开源项目</a>，本人只是对他关于人体丰富深刻的认知和科学有效的实践方法感兴趣,对养生知识充满渴求尤其是可实践的,故在自己的网站上复制一份，以便反复观看，仅做学习使用。</div>
+        </div>
+    </div>]]></description>
+</item>
+<item>
     <title>笔记测试</title>
     <link>/20220709-notetest/</link>
     <pubDate>Sat, 09 Jul 2022 20:05:58 &#43;0800</pubDate>
@@ -80,15 +97,6 @@
     <author>Dillon</author>
     <guid>/theme-documentation-echarts-shortcode/</guid>
     <description><![CDATA[<p><code>echarts</code> shortcode 使用 <a href="https://echarts.apache.org/" target="_blank" rel="noopener noreffer ">ECharts</a> 库提供数据可视化的功能.</p>]]></description>
-</item>
-<item>
-    <title>主题文档 - mapbox Shortcode</title>
-    <link>/theme-documentation-mapbox-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 13:29:59 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>/theme-documentation-mapbox-shortcode/</guid>
-    <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
-<p><code>mapbox</code> shortcode 使用 <a href="https://docs.mapbox.com/mapbox-gl-js" target="_blank" rel="noopener noreffer ">Mapbox GL JS</a> 库提供互动式地图的功能.</p>]]></description>
 </item>
 </channel>
 </rss>

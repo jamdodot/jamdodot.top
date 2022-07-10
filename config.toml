@@ -927,14 +927,22 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
         name = "文档"
         url = "/categories/documentation/"
         title = ""
-      [[languages.zh-cn.menu.main]]
-        weight = 5
-        identifier = "diary"
-        pre = ""
-        post = ""
-        name = "日记"
-        url = "/diary/"
-        title = ""
+      # [[languages.zh-cn.menu.main]]
+      #   weight = 5
+      #   identifier = "diary"
+      #   pre = ""
+      #   post = ""
+      #   name = "日记"
+      #   url = ""
+      #   title = ""
+      # [[languages.zh-cn.menu.main]]
+      #   weight = 5
+      #   identifier = "note"
+      #   pre = ""
+      #   post = ""
+      #   name = "笔记"
+      #   url = ""
+      #   title = ""
       [[languages.zh-cn.menu.main]]
         weight = 5
         identifier = "about"

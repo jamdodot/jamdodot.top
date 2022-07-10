@@ -13,7 +13,7 @@ images: []
 tags: []
 categories: []
 
-featuredImage: ""
+featuredImage: "featured-image.png"
 featuredImagePreview: ""
 
 hiddenFromHomePage: false
