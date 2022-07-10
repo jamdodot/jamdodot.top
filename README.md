@@ -1,5 +1,5 @@
 ## 1. 项目描述
-  灵感来源:[马大伟博客]()
+  灵感来源:[马大伟博客](https://www.bmpi.dev/dev/guide-to-setup-blog-site-with-zero-cost-1/)
 
 ## 2. 命令
 ### 2.1 生成文章：
