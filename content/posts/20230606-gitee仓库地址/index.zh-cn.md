@@ -12,7 +12,7 @@ license: ""
 images: []
 
 tags: []
-categories: ["文档"]
+categories: ["documentation"]
 
 featuredImage: "2023-06-06_11-01-00.png"
 featuredImagePreview: ""

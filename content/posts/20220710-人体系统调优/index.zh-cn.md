@@ -12,7 +12,7 @@ license: ""
 images: []
 
 tags: []
-categories: ["文档"]
+categories: ["documentation"]
 
 featuredImage: "featured-image.png"
 featuredImagePreview: ""
